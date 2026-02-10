@@ -1,5 +1,6 @@
 # E2E-Classification-Model
 End-to-End Machine Learning Pipeline Predicting Income level
+
 🧠 End-to-End Machine Learning Classification
 Census Income Prediction (ML Project #1)
 
@@ -40,6 +41,7 @@ Marital status
 Note: Census datasets often include class imbalance and correlated demographic features, making evaluation and interpretation especially important.
 
 ⚙️ Machine Learning Pipeline
+
 1️⃣ Data Preparation & Preprocessing
 
 Loaded and explored raw census data
