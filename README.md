@@ -132,15 +132,3 @@ Perform deeper fairness and bias analysis
 📁 Project Files
 
 E2E_ML_Classification_Model.ipynb – Fully annotated notebook with code, outputs, and explanations
-
-✅ Why this project matters
-
-This project demonstrates the ability to:
-
-Build ML solutions from raw data to evaluated model
-
-Apply appropriate evaluation metrics
-
-Communicate results clearly
-
-Think critically about limitations and ethics in applied machine learning
