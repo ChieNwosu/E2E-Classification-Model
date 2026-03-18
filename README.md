@@ -1,9 +1,6 @@
 # E2E-Classification-Model
 End-to-End Machine Learning Pipeline Predicting Income level
 
-🧠 End-to-End Machine Learning Classification
-Census Income Prediction (ML Project #1)
-
 📌 Project Overview
 
 This project implements a complete end-to-end machine learning classification pipeline to predict whether an individual earns ≤$50K or >$50K per year, using demographic and employment data from the U.S. Census dataset.
