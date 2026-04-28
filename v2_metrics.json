@@ -1,0 +1,19 @@
+{
+  "lr_acc": 0.8426,
+  "lr_prec": 0.6979,
+  "lr_rec": 0.6483,
+  "lr_f1": 0.6722,
+  "rf_acc": 0.8455,
+  "rf_prec": 0.6984,
+  "rf_rec": 0.6674,
+  "rf_f1": 0.6826,
+  "svm_acc": 0.8393,
+  "svm_prec": 0.6981,
+  "svm_rec": 0.6243,
+  "svm_f1": 0.6592,
+  "tuned_c": 10,
+  "tuned_acc": 0.8429,
+  "tuned_f1": 0.6727,
+  "tuned_prec": 0.6984,
+  "tuned_rec": 0.6488
+}

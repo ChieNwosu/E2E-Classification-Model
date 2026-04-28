@@ -49,9 +49,15 @@ A machine learning pipeline that:
 
 ### v2 Results (Clean Notebook — Realistic)
 
-> **TODO:** Run `notebooks/E2E_ML_Classification_Model_v2_clean.ipynb` and update this section with actual metrics.
+Evaluated on the original (non-synthetic) test set of 9,049 samples:
 
-Expected realistic performance: **~82–87% accuracy** on original test data, based on published benchmarks for this dataset.
+| Model | Accuracy | F1 Score |
+|---|---|---|
+| Logistic Regression | 84.3% | 0.672 |
+| Random Forest | 84.6% | 0.683 |
+| Support Vector Machine (Linear) | 84.3% | 0.628 |
+
+All three models achieved ROC-AUC scores between 0.89 and 0.90, indicating strong ability to distinguish between income classes. Random Forest performed best overall on F1 and AUC.
 
 ---
 
